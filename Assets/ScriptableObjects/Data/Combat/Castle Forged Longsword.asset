@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ef52a4989548d6428fc6a2f33d4edde, type: 3}
+  m_Name: Castle Forged Longsword
+  m_EditorClassIdentifier: 
+  speedMultiplier: 0
+  damageDice: 10
+  damageAdditiveModifier: 1
+  stunDurationMultiplier: 0
+  combatStateSounds:
+  - audioClip:
+    - {fileID: 8300000, guid: 5020a12e59686554fb855e5c06fad99d, type: 3}
+    - {fileID: 8300000, guid: 7f9d342908b0b2244804765b4f21a502, type: 3}
+    - {fileID: 8300000, guid: c70c038e2d207e245a9b4f90b3d027f2, type: 3}
+    combatState: AttackHeld
+  - audioClip:
+    - {fileID: 8300000, guid: 5ed45b72846759c4a8ebf27f22c826bc, type: 3}
+    - {fileID: 8300000, guid: a2d080dea7c4d5c4a8609033e50cb1fc, type: 3}
+    - {fileID: 8300000, guid: b862a400d07032b4fafb708c250d5f44, type: 3}
+    - {fileID: 8300000, guid: 8bfa8b6d28ca16c499b48be149915da6, type: 3}
+    - {fileID: 8300000, guid: 33aedc65a5092914ea6870807ac11bcd, type: 3}
+    combatState: Attacked
+  - audioClip:
+    - {fileID: 8300000, guid: 5020a12e59686554fb855e5c06fad99d, type: 3}
+    - {fileID: 8300000, guid: 7f9d342908b0b2244804765b4f21a502, type: 3}
+    - {fileID: 8300000, guid: c70c038e2d207e245a9b4f90b3d027f2, type: 3}
+    combatState: Parried
+  combatResultSounds:
+  - audioClip:
+    - {fileID: 8300000, guid: d5484a4e2c539ee47b379fdeabeba137, type: 3}
+    - {fileID: 8300000, guid: c1dfd3d95f2cee84fb14f3c59bfda756, type: 3}
+    - {fileID: 8300000, guid: 34ddb79af12ace349a3510ef610710a2, type: 3}
+    - {fileID: 8300000, guid: bece3d8df3034344c9137ded1b9d93ef, type: 3}
+    - {fileID: 8300000, guid: ef4c7b737be2a2640b98d21ac8c9c206, type: 3}
+    combatResult: 1
+    isAttacker: 0

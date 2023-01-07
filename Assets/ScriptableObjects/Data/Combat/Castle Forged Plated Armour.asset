@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f830de148d7f1a4dac0ae4e9d0179d9, type: 3}
+  m_Name: Castle Forged Plated Armour
+  m_EditorClassIdentifier: 
+  armourClass: 10
+  armourDamageReduction: 0.05
+  stunDurationMultiplier: 0
+  combatStateSounds:
+  - audioClip:
+    - {fileID: 8300000, guid: 6807ab31544d61d45be2bb489d2dc893, type: 3}
+    - {fileID: 8300000, guid: 3281ad9c63385aa4d8946e343e5524e1, type: 3}
+    - {fileID: 8300000, guid: 3625c60114df231429d99af6c758b668, type: 3}
+    - {fileID: 8300000, guid: 0bd9cd0715dfa1c48adcad18d47136f5, type: 3}
+    - {fileID: 8300000, guid: 109e02996253e444790f371b836d1095, type: 3}
+    combatState: Hit
+  combatResultSounds: []

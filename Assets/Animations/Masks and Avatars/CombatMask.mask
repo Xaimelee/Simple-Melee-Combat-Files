@@ -1,0 +1,185 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CombatMask
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Knight_mesh
+    m_Weight: 0
+  - m_Path: Knight_rig
+    m_Weight: 1
+  - m_Path: Knight_rig/Root
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1
+    m_Weight: 0
+  - m_Path: Knight_rig/Root/spine1/L.thigh
+    m_Weight: 0
+  - m_Path: Knight_rig/Root/spine1/L.thigh/L.thigh.001
+    m_Weight: 0
+  - m_Path: Knight_rig/Root/spine1/L.thigh/L.thigh.001/L.shin
+    m_Weight: 0
+  - m_Path: Knight_rig/Root/spine1/L.thigh/L.thigh.001/L.shin/L.foot1
+    m_Weight: 0
+  - m_Path: Knight_rig/Root/spine1/L.thigh/L.thigh.001/L.shin/L.foot1/L.toe
+    m_Weight: 0
+  - m_Path: Knight_rig/Root/spine1/L.thigh/L.thigh.001/L.shin/L.foot1/L.toe/L.toe_end
+    m_Weight: 0
+  - m_Path: Knight_rig/Root/spine1/R.thigh
+    m_Weight: 0
+  - m_Path: Knight_rig/Root/spine1/R.thigh/R.thigh.001
+    m_Weight: 0
+  - m_Path: Knight_rig/Root/spine1/R.thigh/R.thigh.001/R.shin
+    m_Weight: 0
+  - m_Path: Knight_rig/Root/spine1/R.thigh/R.thigh.001/R.shin/R.foot1
+    m_Weight: 0
+  - m_Path: Knight_rig/Root/spine1/R.thigh/R.thigh.001/R.shin/R.foot1/R.toe
+    m_Weight: 0
+  - m_Path: Knight_rig/Root/spine1/R.thigh/R.thigh.001/R.shin/R.foot1/R.toe/R.toe_end
+    m_Weight: 0
+  - m_Path: Knight_rig/Root/spine1/stomach
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm/L.hand
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm/L.hand/L.index1
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm/L.hand/L.index1/L.index2
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm/L.hand/L.index1/L.index2/L.index3
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm/L.hand/L.index1/L.index2/L.index3/L.index4
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm/L.hand/L.index1/L.index2/L.index3/L.index4/L.index4_end
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm/L.hand/L.middle1
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm/L.hand/L.middle1/L.middle2
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm/L.hand/L.middle1/L.middle2/L.middle3
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm/L.hand/L.middle1/L.middle2/L.middle3/L.middle4
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm/L.hand/L.middle1/L.middle2/L.middle3/L.middle4/L.middle4_end
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm/L.hand/L.pinky1
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm/L.hand/L.pinky1/L.pinky2
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm/L.hand/L.pinky1/L.pinky2/L.pinky3
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm/L.hand/L.pinky1/L.pinky2/L.pinky3/L.pinky4
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm/L.hand/L.pinky1/L.pinky2/L.pinky3/L.pinky4/L.pinky4_end
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm/L.hand/L.ring1
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm/L.hand/L.ring1/L.ring2
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm/L.hand/L.ring1/L.ring2/L.ring3
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm/L.hand/L.ring1/L.ring2/L.ring3/L.ring4
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm/L.hand/L.ring1/L.ring2/L.ring3/L.ring4/L.ring4_end
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm/L.hand/L.thumb1
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm/L.hand/L.thumb1/L.thumb2
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm/L.hand/L.thumb1/L.thumb2/L.thumb3
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm/L.hand/L.thumb1/L.thumb2/L.thumb3/L.thumb3_end
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm/L.hand/L.weapon_slot
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm/L.hand/L.weapon_slot/Sword
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm/L.hand/L.weapon_slot/Sword/Handle
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm/L.hand/L.weapon_slot/Sword/Handle/Handle_end
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm/L.hand/L.weapon_slot/Sword/Sword_end
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/L.shoulder/L.upperarm/L.lowerarm/L.hand/L.weapon_slot/Sword/Sword_end/Sword_end_end
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/neck
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/neck/head
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/neck/head/head_end
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/R.shoulder
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/R.shoulder/R.upperarm
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/R.shoulder/R.upperarm/R.lowerarm
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/R.shoulder/R.upperarm/R.lowerarm/R.hand
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/R.shoulder/R.upperarm/R.lowerarm/R.hand/R.index1
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/R.shoulder/R.upperarm/R.lowerarm/R.hand/R.index1/R.index2
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/R.shoulder/R.upperarm/R.lowerarm/R.hand/R.index1/R.index2/R.index3
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/R.shoulder/R.upperarm/R.lowerarm/R.hand/R.index1/R.index2/R.index3/R.index4
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/R.shoulder/R.upperarm/R.lowerarm/R.hand/R.index1/R.index2/R.index3/R.index4/R.index4_end
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/R.shoulder/R.upperarm/R.lowerarm/R.hand/R.middle1
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/R.shoulder/R.upperarm/R.lowerarm/R.hand/R.middle1/R.middle2
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/R.shoulder/R.upperarm/R.lowerarm/R.hand/R.middle1/R.middle2/R.middle3
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/R.shoulder/R.upperarm/R.lowerarm/R.hand/R.middle1/R.middle2/R.middle3/R.middle4
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/R.shoulder/R.upperarm/R.lowerarm/R.hand/R.middle1/R.middle2/R.middle3/R.middle4/R.middle4_end
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/R.shoulder/R.upperarm/R.lowerarm/R.hand/R.pinky1
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/R.shoulder/R.upperarm/R.lowerarm/R.hand/R.pinky1/R.pinky2
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/R.shoulder/R.upperarm/R.lowerarm/R.hand/R.pinky1/R.pinky2/R.pinky3
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/R.shoulder/R.upperarm/R.lowerarm/R.hand/R.pinky1/R.pinky2/R.pinky3/R.pinky4
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/R.shoulder/R.upperarm/R.lowerarm/R.hand/R.pinky1/R.pinky2/R.pinky3/R.pinky4/R.pinky4_end
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/R.shoulder/R.upperarm/R.lowerarm/R.hand/R.ring1
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/R.shoulder/R.upperarm/R.lowerarm/R.hand/R.ring1/R.ring2
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/R.shoulder/R.upperarm/R.lowerarm/R.hand/R.ring1/R.ring2/R.ring3
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/R.shoulder/R.upperarm/R.lowerarm/R.hand/R.ring1/R.ring2/R.ring3/R.ring4
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/R.shoulder/R.upperarm/R.lowerarm/R.hand/R.ring1/R.ring2/R.ring3/R.ring4/R.ring4_end
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/R.shoulder/R.upperarm/R.lowerarm/R.hand/R.thumb1
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/R.shoulder/R.upperarm/R.lowerarm/R.hand/R.thumb1/R.thumb2
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/R.shoulder/R.upperarm/R.lowerarm/R.hand/R.thumb1/R.thumb2/R.thumb3
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/R.shoulder/R.upperarm/R.lowerarm/R.hand/R.thumb1/R.thumb2/R.thumb3/R.thumb3_end
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/R.shoulder/R.upperarm/R.lowerarm/R.hand/R.weapon_slot
+    m_Weight: 1
+  - m_Path: Knight_rig/Root/spine1/stomach/spine2/R.shoulder/R.upperarm/R.lowerarm/R.hand/R.weapon_slot/R.weapon_slot_end
+    m_Weight: 1
+  - m_Path: Sword_mesh
+    m_Weight: 0

@@ -1,0 +1,15 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace A.StateMachines
+{
+    [CreateAssetMenu(menuName = "Scriptable State Machine/Conditions/Combat/Condition", fileName = "new Condition")]
+    public class #SCRIPTNAME# : ScriptableCondition
+    {
+        public override bool Verify(StateComponent statesComponent)
+        {
+            return false;
+        }
+    }
+}

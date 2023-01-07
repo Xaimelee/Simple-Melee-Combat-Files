@@ -1,0 +1,15 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace A.StateMachines
+{
+    [CreateAssetMenu(menuName = "Scriptable State Machine/Actions/Combat/Action", fileName = "new Action")]
+    public class #SCRIPTNAME# : ScriptableAction
+    {
+        public override void Act(StateComponent statesComponent)
+        {
+            #NOTRIM#
+        }
+    }
+}
